@@ -1,0 +1,14 @@
+h1 {
+    color: brown;
+
+}
+
+p{
+    background-color: aquamarine;
+}
+
+h2{ 
+    color: blueviolet;
+    border-radius: 10px;
+    border-color: aqua;
+}
